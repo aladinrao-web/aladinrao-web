@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Kovid
 
-<!--
-**aladinrao-web/aladinrao-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Manager who enjoys taking ambiguous problems from framing to a working, testable product.
 
-Here are some ideas to get you started:
+I have worked on fast delivery, fulfilment, and post-order experiences at Meesho, following earlier strategy and consumer product work in consulting. I am now going deeper on AI-assisted product workflows, evaluation, and hands-on building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected builds
+
+### [Guido](https://github.com/aladinrao-web/guido)
+
+[Try the live prototype](https://aladinrao-web.github.io/guido/)
+
+A mobile-first, constraint-aware itinerary workspace. It detects conflicts, proposes alternatives, previews time, travel, and budget consequences, and applies changes only after explicit confirmation. Existing bookings stay immutable.
+
+**What it demonstrates:** translating product principles such as user control, explainability, and safe state changes into deterministic interaction logic.
+
+### [getFit](https://github.com/aladinrao-web/getfit-app)
+
+[Try the live app](https://aladinrao-web.github.io/getfit-app/)
+
+A mobile-first strength and nutrition PWA built around fast meal check-ins, seven-day weight trends, and deliberate workout progression. It combines local-first capture with authenticated cloud sync and revision-conflict protection.
+
+**What it demonstrates:** turning a personal workflow into an end-to-end product with offline behaviour, data safety, product documentation, and release verification.
+
+## How I work
+
+- Start with user behaviour and acceptance criteria.
+- Build a thin end-to-end slice before expanding scope.
+- Treat tests, recovery, and failure states as product requirements.
+- Use data and experiments to resolve uncertainty.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kovid-rp)
