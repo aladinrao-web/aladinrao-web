@@ -22,12 +22,6 @@ A mobile-first strength and nutrition PWA built around fast meal check-ins, seve
 
 **What it demonstrates:** turning a personal workflow into an end-to-end product with offline behaviour, data safety, product documentation, and release verification.
 
-## How I work
-
-- Start with user behaviour and acceptance criteria.
-- Build a thin end-to-end slice before expanding scope.
-- Treat tests, recovery, and failure states as product requirements.
-- Use data and experiments to resolve uncertainty.
 
 ## Connect
 
